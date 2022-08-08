@@ -1,0 +1,11 @@
+name: nma
+channels:
+    - conda-forge
+dependencies:
+  - root
+  - pip
+  - uproot
+  - awkward
+  - pandas
+  - numpy
+  - matplotlib
